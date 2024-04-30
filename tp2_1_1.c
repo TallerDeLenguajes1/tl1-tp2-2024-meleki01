@@ -11,7 +11,6 @@ int main()
 
     for(i = 0;i<N; i++)
     {
-        // printf("%d \n", i);
     vt[i]=1+rand()%100;
     printf("%f \n", vt[i]);
     }
