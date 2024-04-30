@@ -1,0 +1,9 @@
+● ¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+Rta: no se puede ver en el main, ya que esta en la rama opcion_2
+
+vuelva a ejecutar el comando gitk --all ¿Qué diferencias nota?
+Rta: noto que se agrego un nuevo archivo y este figura en el registro.
+
+Luego utilice el comando gitk –all para ver los cambios, ¿Qué nota?
+Rta: los cambios que noto, es que se combinan las dos ramas.
+
